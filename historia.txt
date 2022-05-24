@@ -1,6 +1,12 @@
 Este es la histaria de Norman Perez
 
+<<<<<<< HEAD
 Norman Perez tiene 28 anios y nacio en Nicaragua,
 viviendo solo ahi
 
 Hoy hablaremos de su vida y obra maestra
+=======
+Norman tiene 28 anios
+
+Manana nos enfocaremos en su vida laboral
+>>>>>>> cabecera
